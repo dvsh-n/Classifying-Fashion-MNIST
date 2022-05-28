@@ -1,0 +1,30 @@
+Cost after epoch 0: 0.068324
+Train accuracy: tf.Tensor(0.46943334, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.549, shape=(), dtype=float32)
+Cost after epoch 10: 0.064596
+Train accuracy: tf.Tensor(0.7471, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.7351, shape=(), dtype=float32)
+Cost after epoch 20: 0.064413
+Train accuracy: tf.Tensor(0.7773, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.7621, shape=(), dtype=float32)
+Cost after epoch 30: 0.064317
+Train accuracy: tf.Tensor(0.78835, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.7744, shape=(), dtype=float32)
+Cost after epoch 40: 0.064252
+Train accuracy: tf.Tensor(0.79545, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.7829, shape=(), dtype=float32)
+Cost after epoch 50: 0.064204
+Train accuracy: tf.Tensor(0.79861665, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.787, shape=(), dtype=float32)
+Cost after epoch 60: 0.064167
+Train accuracy: tf.Tensor(0.80193335, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.7887, shape=(), dtype=float32)
+Cost after epoch 70: 0.064140
+Train accuracy: tf.Tensor(0.80363333, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.7909, shape=(), dtype=float32)
+Cost after epoch 80: 0.064119
+Train accuracy: tf.Tensor(0.80331665, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.7916, shape=(), dtype=float32)
+Cost after epoch 90: 0.064101
+Train accuracy: tf.Tensor(0.804, shape=(), dtype=float32)
+Test_accuracy: tf.Tensor(0.7929, shape=(), dtype=float32)
